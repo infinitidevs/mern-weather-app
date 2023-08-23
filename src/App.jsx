@@ -1,13 +1,11 @@
-import "./App.css";
+import { AppWrapper } from './App.styles';
+import LocalWeather from './pages/LocalWeather';
 
-import Footer from "./components/Footer/Footer";
-import Header from "./components/Header/Header";
 const App = () => {
   return (
-    <>
-      <Header />
-      <Footer />
-    </>
+    <AppWrapper>
+      <LocalWeather />
+    </AppWrapper>
   );
 };
 

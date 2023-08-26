@@ -5,7 +5,6 @@ import Favorites from './pages/Favorites/Favorites';
 import Forecast from './pages/Forecast';
 import LocalWeather from './pages/LocalWeather';
 
-// million-ignore
 const App = () => {
   return (
     <AppWrapper>

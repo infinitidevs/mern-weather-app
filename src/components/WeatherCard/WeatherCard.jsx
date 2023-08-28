@@ -21,7 +21,7 @@ const WeatherCard = ({ weather, link }) => {
             weather={weather.feels_like}
             sign={'º'}
             image={{
-              src: 'https://cdn.jsdelivr.net/gh/infinitidevs/mern-nasa-app@main/src/assets/thermometer.svg',
+              src: 'https://cdn.jsdelivr.net/gh/infinitidevs/mern-weather-app@main/src/assets/thermometer.svg',
               alt: 'Real Feel',
             }}
             text={'RealFeel'}
@@ -35,7 +35,7 @@ const WeatherCard = ({ weather, link }) => {
           <SunRiseSetCard
             weather={weather.sunrise}
             image={{
-              src: 'https://cdn.jsdelivr.net/gh/infinitidevs/mern-nasa-app@main/src/assets/sunrise.svg',
+              src: 'https://cdn.jsdelivr.net/gh/infinitidevs/mern-weather-app@main/src/assets/sunrise.svg',
               alt: 'Sunrise',
             }}
             text={'Sunrise'}
@@ -43,7 +43,7 @@ const WeatherCard = ({ weather, link }) => {
           <SunRiseSetCard
             weather={weather.sunset}
             image={{
-              src: 'https://cdn.jsdelivr.net/gh/infinitidevs/mern-nasa-app@main/src/assets/sunset.svg',
+              src: 'https://cdn.jsdelivr.net/gh/infinitidevs/mern-weather-app@main/src/assets/sunset.svg',
               alt: 'Sunset',
             }}
             text={'Sunset'}

@@ -10,7 +10,7 @@ const Header = () => {
     <Container>
       <LogoWrapper>
         <LogoImg
-          src="https://cdn.jsdelivr.net/gh/infinitidevs/mern-nasa-app@main/src/assets/weather-logo.png"
+          src="https://cdn.jsdelivr.net/gh/infinitidevs/mern-weather-app@main/src/assets/weather-logo.png"
           alt="Logo"
         />
         <h1>Weather App</h1>

@@ -6,7 +6,7 @@ const CitiesList = () => {
   return (
     <ListWrapper>
       <IconList
-        src="https://cdn.jsdelivr.net/gh/infinitidevs/mern-nasa-app@main/src/assets/list.svg"
+        src="https://cdn.jsdelivr.net/gh/infinitidevs/mern-weather-app@main/src/assets/list.svg"
         alt="list"
       />
     </ListWrapper>

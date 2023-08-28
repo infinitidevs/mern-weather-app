@@ -4,7 +4,7 @@ import FavoritesCard from '../../components/FavoritesCard/FavoritesCard';
 import LinkWrapper from '../../components/LinkWrapper/LinkWrapper';
 import favoriteLocations from '../../constants/location';
 import useFavoritesWeather from '../../hooks/useFavoritesWeather';
-import Layout from '../../layout/layout';
+import Layout from '../../layout/Layout';
 import { Title } from './styles';
 
 const Favorites = () => {

@@ -36,21 +36,29 @@ npm run dev
 
 - Weather information on user location
         
-        http://localhost:port/
+        https://mern-weather-app-tau.vercel.app/
 
 - Weather forecast information on user location
 
-        http://localhost:port/forecast
+        https://mern-weather-app-tau.vercel.app/forecast/
 
 - Cities list 
         
-        http://localhost:port/favorites
+        https://mern-weather-app-tau.vercel.app/favorites
 
 
 - Weather information for the chosen city
 
-        http://localhost:port/favorites/cityIndex/
+        https://mern-weather-app-tau.vercel.app/favorites/0
+        https://mern-weather-app-tau.vercel.app/favorites/1
+        https://mern-weather-app-tau.vercel.app/favorites/2
+        https://mern-weather-app-tau.vercel.app/favorites/3
+        https://mern-weather-app-tau.vercel.app/favorites/4
 
 - Weather forecast information for the chosen city
 
-        http://localhost:port/forecast/cityIndex
+        https://mern-weather-app-tau.vercel.app/forecast/0
+        https://mern-weather-app-tau.vercel.app/forecast/1
+        https://mern-weather-app-tau.vercel.app/forecast/2
+        https://mern-weather-app-tau.vercel.app/forecast/3
+        https://mern-weather-app-tau.vercel.app/forecast/4

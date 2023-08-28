@@ -5,7 +5,10 @@ import { IconList, ListWrapper } from './styles';
 const CitiesList = () => {
   return (
     <ListWrapper>
-      <IconList src="/src/assets/list.svg" alt="list" />
+      <IconList
+        src="https://cdn.jsdelivr.net/gh/infinitidevs/mern-nasa-app@main/src/assets/list.svg"
+        alt="list"
+      />
     </ListWrapper>
   );
 };

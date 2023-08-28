@@ -1,4 +1,4 @@
-# MERN WEATHER APP [![Netlify Status](https://api.netlify.com/api/v1/badges/309d1ba0-b7c2-4701-bb74-84b410160197/deploy-status?branch=main)]()
+# MERN WEATHER APP [![Netlify Status](https://api.netlify.com/api/v1/badges/309d1ba0-b7c2-4701-bb74-84b410160197/deploy-status?branch=main)](https://mern-weather-app-tau.vercel.app/)
 
 Open Weather API app. It presents the current weather and forecast by obtaining the user's geolocation through the browser.
 
@@ -33,6 +33,8 @@ npm run dev
 ```
 
 ## Available URLs: 
+
+Make sure to enable GPS.
 
 - Weather information on user location
         

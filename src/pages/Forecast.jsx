@@ -5,7 +5,7 @@ import LinkWrapper from '../components/LinkWrapper/LinkWrapper';
 import favoriteLocations from '../constants/location';
 import useForecastWeather from '../hooks/useForecastWeather';
 import useGeolocation from '../hooks/useGeolocation';
-import Layout from '../layout/layout';
+import Layout from '../layout/Layout';
 import { Title } from './Favorites/styles';
 
 const Forecast = () => {

@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-import Layout from '../../layout/layout';
+import Layout from '../../layout/Layout';
 import CardCityInfo from '../CardCityInfo/CardCityInfo';
 import CardWeatherInfo from '../CardWeatherInfo/CardWeatherInfo';
 import ExtraCardWrapper from '../ExtraCardWrapper/ExtraCardWrapper';
